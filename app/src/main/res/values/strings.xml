@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Biblioteczka</string>
+    <string name="activity_all_books">Wszystkie książki</string>
+    <string name="activity_book">Informacje o książce</string>
+    <string name="activity_already_read">Przeczytane Książki</string>
+    <string name="activity_favorite_books">Ulubione Książki</string>
+    <string name="activity_want_to_read">Książki do przeczytania</string>
+    <string name="activity_currently_reading">Aktualnie czytane książki</string>
+</resources>
